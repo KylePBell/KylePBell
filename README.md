@@ -13,7 +13,7 @@ To transition my successful sales career into a cyber security or IT role, where
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Filtering SQL Queries          | <a href="https://github.com/KylePBell/Filtering-SQL-Queries/tree/main">Filtering SQL Queries</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/KylePBell/Network-Attack-Detection-and-Defense/tree/main">Attack and Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
@@ -55,4 +55,4 @@ To transition my successful sales career into a cyber security or IT role, where
 
 ## Projects
 - <a href="https://github.com/KylePBell/Filtering-SQL-Queries/tree/main">Filtering SQL Queries</a>
-- SOC Automation Project
+- <a href="https://github.com/KylePBell/Network-Attack-Detection-and-Defense/tree/main">Attack and Detection Lab</a>
