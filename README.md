@@ -8,7 +8,6 @@ I am an experience sales professional who has a passion and committment for info
 To transition my successful sales career into a cyber security or IT role, where I can utilize my technical acumen and commitment to drive business growth and satisfaction through effective solution-driven strategies.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -20,7 +19,6 @@ To transition my successful sales career into a cyber security or IT role, where
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
@@ -43,7 +41,6 @@ To transition my successful sales career into a cyber security or IT role, where
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Google%20Cyber%20Security%20Certificate-blue?style=for-the-badge&logo=google&logoColor=white" />
 
